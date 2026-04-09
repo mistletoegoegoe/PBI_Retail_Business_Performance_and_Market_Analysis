@@ -22,6 +22,10 @@ This project applies the 5-step Design Thinking framework to deeply understand S
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3ac0c663-e109-4b88-a048-864ffbedc642" />
 
 
+<img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/f911bc2a-bf2e-4ca4-b356-5786777f64cd" />
+
+
+
 ### 2.2 Define
 <img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/8a408a6f-2f37-496c-82fd-5d3af06ba738">
 
