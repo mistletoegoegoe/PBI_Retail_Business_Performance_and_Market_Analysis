@@ -1,4 +1,4 @@
-# Power BI Project: Business performance, market expansion & choosing strategic products analysis
+# Power BI Project: Retail Business performance, market expansion & choosing strategic products analysis
 
 
 ## I. Business requirements
