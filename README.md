@@ -67,47 +67,23 @@ This step focuses on designing the dashboard layout and continuously reviewing a
 
 
 # III. Data visualisation
-## 1. DAX
-By the given data, there is no available Sales per order metric, which was necessary to provide an overview about Sales situation. Thus, a measure was created to calculate this indicator. The calculation would be implemented in DAX.
-### Sales per order formula:
-Cart value = Total sales / Total orders
-### DAX code
-```
-Cart value = round((divide(sum(Orders[Sales]),DISTINCTCOUNT(Orders[Order ID]))),2)
-```
-## 2. Dashboard
-<img width="671" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/ab3f18bc-82e4-4e7f-bd6c-e5fee5262825">
 
-## 3. Insights
-### Overall 
-Sales remained the increasing tendency from 2011 to 2014 with a compound annual growth rate (CAGR) of 17.46%. However, within each year, there was a common pattern that total sales showed an upward trend across all product categories until forth quarter, before falling down in the first quarter of the next year. 
+## 1. Business Overview 
 
-Gross Profit Margin remained stable around 11% throughout 4 years. 
 
-Cart value did not vary much across the years, while the number of order increased significantly over years (1.7 times in 2014), which contributed to the overall sales of the company. 
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/b305863e-c654-498c-9a50-77a1538e2a11" />
 
-The value of returned order showed a slight upward trend over years with the average value being 1.3 times of successful orders. The significant markets were APAC (32%), US (22%), EU (25%), and LATAM (20%).
 
-B2C segment is the most significant contributer to company's revenue (51%), followed by Corporate (30%) and Home Office. However, in recent years, the sales of these groups had a slight downward trend. Home Office tended to increase in the structure of total revenue in 2014. 
+**Key takeaways:** Overall performance indicates strong and steady business growth.
+- Sales are growing strongly (+26% YoY), while profit grows at a slightly slower rate (+24%), indicating emerging margin pressure.
+- Revenue expansion is robust; however, profitability is not scaling at the same pace, suggesting cost or discount impacts.
+- Profit margin remains broadly stable (~11.7%) but shows a slight decline YoY, reflecting reduced efficiency.
+- Growth momentum is strong overall, though slightly moderating compared to last year.
+- Return rate has improved marginally, which helps support profitability despite margin pressure.
+- Overall performance is solid, but there are early signs of efficiency challenges that should be monitored.
 
-### Market
-Top three market that generated the highest revenue are  APAC (3.59M, accounted for 28.36%), EU (2.94M accounted for 23.24%) and US (2.3M  accounted for 18.17%). The ratio of three categories was relatively balanced across most markets, but the Technology still hold the largest share. 
 
-The most common product in these markets were Bookcase, Phone, Chair. However, in EU market, Copier uniquely generated the highest revenue. 
 
-In terms of CAGR, Canada witnessed the strongest growth (28.45%), followed by Africa (22.14%), though these were two markets with the lowest revenue. Despite one of the three largest markets, US experienced the lowest growth, approximately 10%. 
-
-By country, US generated the highest amount of revenue (2.2M), equals 2.4 times that of the second highest country. 
-### Product
-All product categories were seasonal, with the total sales increased significantly toward the end of the year. 
-
-Technology and Office Supplies had the highest percentage of Gross Profit Margin (13.99% and 13.69%, respectively), which is double that of the Furniture category with a margin of only 6.94%.
-
-Four sub-categories that were the most significant revenue contributors were: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcase(1.4M). 
-
-Sub-categories that had the highest Profit Margin were: Paper (24.24%), Labels (20.45%), Envelopes (17.32%), Accessories (17.29%), Copier (17.13%). However, only Copier and Accessories had high revenue. The remaining products were among the five with the lowest revenue in the entire company.
-
-In particular, Tables had a negative Profit Margin (-8.46%) despite having fairly high revenue (749K).
 
 ## 4. Recommendations
 - Need deeper research on the reason why total sales had tendency to decrease sharply in the first quarter each year, to propose the appropriate business strategy.
