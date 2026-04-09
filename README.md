@@ -18,25 +18,35 @@ This project applies the 5-step Design Thinking framework to deeply understand S
 ### 1. Empathise 
 This step focuses on analyzing business requirements, clarifying stakeholder needs using the 5W1H framework, and developing a clear understanding of the dataset.
 
-a. Analysing business problem
-
+**a. Analysing business problem**
 
 <img width="900" height="310" alt="image" src="https://github.com/user-attachments/assets/a93bf2db-8be9-44bb-959f-b85de72604a0" />
 
-b. Analysing stakeholders
-
+**b. Analysing stakeholders**
 
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/3ac0c663-e109-4b88-a048-864ffbedc642" />
 
 
-c. Understanding dataset
+**c. Understanding dataset**
 
 <img width="270" height="310" alt="image" src="https://github.com/user-attachments/assets/f911bc2a-bf2e-4ca4-b356-5786777f64cd" />
 
 
 
-### 2.2 Define
-<img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/8a408a6f-2f37-496c-82fd-5d3af06ba738">
+### 2. Define
+
+The Define step identifies the core problem, defines key metrics such as the **North Star Metric**, and establishes the **Point of View**.
+
+**a. Identify North Star Metric**
+
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/01cfc04f-9e53-43e1-aeb5-7619d377839c" />
+
+**b. Identify Point of Views**
+
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d51a34f4-a758-478e-af2e-fde901bd4c03" />
+
 
 ### 2.3 Ideate
 <img width="677" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/65a8c55b-8846-466b-bc14-f179f4584ac7">
