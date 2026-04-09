@@ -43,7 +43,7 @@ The Define step identifies the core problem, defines key metrics such as the **N
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/01cfc04f-9e53-43e1-aeb5-7619d377839c" />
 
 
-**b. Clarify GROWTH FORMULAS**
+**b. Clarify Growth Formulas**
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d51a34f4-a758-478e-af2e-fde901bd4c03" />
 
 
