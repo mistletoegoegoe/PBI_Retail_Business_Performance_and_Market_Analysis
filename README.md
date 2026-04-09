@@ -18,6 +18,10 @@ This project applies the 5-step Design Thinking framework to deeply understand S
 ### 1. Empathise 
 <img width="746" height="286" alt="image" src="https://github.com/user-attachments/assets/a93bf2db-8be9-44bb-959f-b85de72604a0" />
 
+
+<img width="440" height="241" alt="image" src="https://github.com/user-attachments/assets/3ac0c663-e109-4b88-a048-864ffbedc642" />
+
+
 ### 2.2 Define
 <img width="629" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/8a408a6f-2f37-496c-82fd-5d3af06ba738">
 
