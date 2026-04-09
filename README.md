@@ -20,7 +20,7 @@ This step focuses on analyzing business requirements, clarifying stakeholder nee
 
 **a. Analysing business problem**
 
-<img width="900" height="310" alt="image" src="https://github.com/user-attachments/assets/a93bf2db-8be9-44bb-959f-b85de72604a0" />
+<img width="900" height="342" alt="image" src="https://github.com/user-attachments/assets/8a6134a0-5136-45df-a5f6-710b3a8c373e" />
 
 **b. Analysing stakeholders**
 
