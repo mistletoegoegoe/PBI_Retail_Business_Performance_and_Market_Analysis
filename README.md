@@ -113,11 +113,23 @@ LATAM Stagnation: Unlike the surging EMEA, LATAM has the lowest sales growth YoY
 
 
 
-
-
 ## 4. Recommendations
-- Need deeper research on the reason why total sales had tendency to decrease sharply in the first quarter each year, to propose the appropriate business strategy.
-- Continue to develop in major markets (APAC, EU), while expanding and researching on high-potential markets such as Canada and Africa. The US, despite one of the largest market, it was required a new business strategy to push the sales.
-- Intensify marketing campaigns in third and forth quarters, most focus on potential product (with low sales but high profit margin) such as Accessories, Art, Papers, Evelopes besides Phones, Bookcases, Copier, Chair groups which were company's strength.
-- Bên cạnh đó, đẩy mạnh các hoạt động upsale, cross-sale để tăng giá trị đơn hàng.
-- In addition, enhance upsale and cross-sale to increase cart value
+### a. Improve Efficiency
+- The business is in a "Growth vs. Margin" tug-of-war. While sales are up +26%, profit is only up +24%, which confirms that as you scale, you are becoming slightly less efficient.
+- Monitor the 11.7% Margin: This is currently stable, but any further decline YoY should trigger a review of operational overhead. That could be due to low AOV for Office Supplies:, while high number of orders -> increase operational cost to handle each order. 
+=> Implement "Bundling" for Office Supplies: to increase AOV, decrease the number of small orders -> decrease operational cost to handle each order. 
+Focus on Technology, leading category to drive sales.
+- Prioritise Corporate group, which is high value and less cost for operation, can increase sales & PM. 
+
+
+### b. Market expansion 
+- Continue to invest more in leading market: APAC, EU,  US (biggest sales & Profit contributors and still growing).
+- Aggressive Push in EMEA: This is your highest-priority expansion zone. With ~50% YoY growth, it is outperforming all other markets in velocity.
+- Optimize the US for Profit, not just Sales: The US has the highest-selling single country, but the EU is more profitable relative to its size. Shift the US strategy from "volume at all costs" to "high-margin SKU focus" to match EU efficiency.
+- Pause LATAM Investment: Given its status as the "laggard" with the lowest growth trajectory, reallocate that capital toward EMEA or APAC.
+
+
+### c. Choosing strategic product lines
+- Establish the "Global Anchor" (Phones): Lead all new market entries (especially EMEA) with the Apple Smart Phone. Its cross-market success makes it the lowest-risk entry product.
+- Scale the "Efficiency Champion" (Copiers) in the EU: Copiers generate nearly as much profit as Phones with far fewer orders. Doubling down on Copiers in the already-efficient EU market will maximize net income per transaction.
+- Fix or Phase Out Tables: This is the only sub-category with negative profit. Every sale is currently a net loss. Either drastically increase pricing or exit this category to protect the overall 11.7% margin.
